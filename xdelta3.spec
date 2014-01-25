@@ -15,6 +15,7 @@ URL:		http://www.xdelta.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	glib-devel >= 1.2.0
+BuildRequires:	libstdc++-devel
 BuildRequires:	libtool
 BuildRequires:	xz-devel
 BuildRequires:	zlib-devel
